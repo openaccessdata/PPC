@@ -8,3 +8,6 @@ PPC_session_order.csv: contains the order of stimulation conditions for each par
 
 PPC_scales.csv: contains personality scales
 
+PT_model.stan: contains stan code for sampling prospect theory parameters
+
+Mean_variance.R: contains regression analysis for mean-variance approach
